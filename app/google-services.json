@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "304413220337",
+    "firebase_url": "https://tyba-af349.firebaseio.com",
+    "project_id": "tyba-af349",
+    "storage_bucket": "tyba-af349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304413220337:android:5da3a00357d35514",
+        "android_client_info": {
+          "package_name": "com.capstone.android.tyba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304413220337-8738kfv4r1vgms297h050ir6qqjtpri0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.android.tyba",
+            "certificate_hash": "0a54ecaf6e0b3394f428b43a4134a6fb9c9bfda5"
+          }
+        },
+        {
+          "client_id": "304413220337-jhl3krdoc2or1l44njugcfdlbf12em2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.android.tyba",
+            "certificate_hash": "d6d9e7e8dbdd1e4471526d05f5a7bf2bb01e0a9b"
+          }
+        },
+        {
+          "client_id": "304413220337-vqlhbin5sniam89oadrf0dao1m76rsvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdn3v5kS68-LlNZsQWCpBBvNLZSfCN9bQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304413220337-vqlhbin5sniam89oadrf0dao1m76rsvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

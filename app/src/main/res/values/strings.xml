@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TYBA</string>
+    <string name="app_title">Take your Bread Away</string>
+    <string name="signin">SIGN-IN WITH GOOGLE</string>
+    <string name="fav">Select your favorite bread</string>
+    <string name="desc_cheesebread">Cheese bread</string>
+    <string name="desc_frenchbread">French bread</string>
+    <string name="letmeknow">Let me know when it\'s ready</string>
+    <string name="thankyou">Thank you for choosing</string>
+    <string name="msgallset">ALL SET! YOU WILL BE INFORMED WHEN YOUR BREAD IS READY.</string>
+    <string name="channel_name">channel_tyba</string>
+    <string name="channel_description">lets user know when bread is ready</string>
+</resources>
